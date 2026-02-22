@@ -11,6 +11,7 @@
 </div>
 
 [Скачать для FireFox](https://addons.mozilla.org/ru/firefox/addon/youtube-myslivetsify)
+
 [Скачать для Chrome и установить самостоятельно потому-что я не буду платить 5 долларов чтобы выложить расширение в магазин](https://github.com/Forbirdden/Myslivetsify-Youtube/releases/latest)
 
 # [!!!!! ВНИМАНИЕ ЕСЛИ Я НАРУШИЛ КАКИЕ-ТО АВТОРСКИЕ ПРАВА НА КАРТИНКИ В ПАПКЕ IMAGES ПИШИТЕ РАЗБЕРЁМСЯ !!!!!](https://forbirdden.rf.gd/contacts.html)
