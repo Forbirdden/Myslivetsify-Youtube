@@ -1,62 +1,46 @@
 <div align = center>
 
-# MrBeastify
+# Myslivetsify
 
-Is your browser experience boring? Are you having  
-trouble finding engaging click-baity videos?
+Ваш браузер скучен? Возникают ли у вас проблемы с поиском интересных видеороликов с кликбейтом?
 
-**Fear no more.**
+**Больше не бойтесь.**
 
-This extension adds the famous  
-youtuber **MrBeast** to every thumbnail.
-
-[![Button Download Firefox]][Download Firefox]  
-[![Button Download Chrome]][Download Chrome]  
-[![Button Download Edge]][Download Edge]
+Это расширение добавляет знаменитого ютубера **Daniel Myslivets** на каждое миниатюрное изображение.
 
 </div>
 
-## Notes
+# [!!!!! ВНИМАНИЕ ЕСЛИ Я НАРУШИЛ КАКИЕ-ТО АВТОРСКИЕ ПРАВА НА КАРТИНКИ В ПАПКЕ IMAGES ПИШИТЕ РАЗБЕРЁМСЯ !!!!!](https://forbirdden.rf.gd/contacts.html)
 
-- This extension should be compatible with any Firefox / Chromium based browser.
-- This extension was inspired by **[Unnecessary Inventions][UI YouTube]** and his **[Website][UI Website]**.
-- This extension is unofficial and not affiliated with MrBeast or YouTube.
+## Примечания
 
-## Making your own
+- Это расширение должно быть совместимо с любым браузером на основе Firefox / Chromium.
 
-Want to customize this extension with a different YouTuber or personality? Here's how:
+- Это неофициальное расширение, не связанное с Daniel Myslivets или YouTube.
 
-1. **Fork this repository** and or clone it to your local machine
-2. **Replace the images**: 
-   - Replace the images in the `images/` folder with your own (numbered sequentially: `1.png`, `2.png`, `3.png`, etc. Leave no gaps in the numbering.) You can use websites such as [Photoroom](https://www.photoroom.com/tools/background-remover) to remove the background of your images, and websites like [compresspng](https://compresspng.com/) to compress your images.
-   - Update `icon.png` with your own icon
-3. **Update the manifest**:
-   - Edit `manifest.json` and `manifest v3.json` to change the extension name, version number and description
-4. **Handle text images** (optional):
-   - If any images contain text that shouldn't be flipped, add them to `images/flip_blacklist.json`
-   - Create alternative flipped versions in `images/textFlipped/` if needed
-   - If you have no use for the flip blacklist, you should delete the `flip_blacklist.json` file.
-5. **Test locally**: Load the extension in developer mode in your preferred browser. This is important. Do not upload broken extensions!
-6. **Build the extension**: If you have 7-Zip installed, run `build.bat` to build the extension. This will create a zip file in the root directory of the repository. (The 7-Zip dependency is unfortunately required because Windows' built in Compress-Archive feature is completely busted for some reason). If packing manually, only include `images/`, `manifest.json`, `icon.png`, `settings.html`, `settings.js` and `mrbeastify.js`. When packing for Chrome, use the `manifest v3.json` file, but rename it to `manifest.json`.
-7. **Upload to extension stores**: You can upload your customized version to Chrome Web Store, Firefox Add-ons, etc.
+## Создание собственного расширения
 
-## Microsoft Edge <a id="microsoftedge"></a>
+Хотите настроить это расширение, добавив другого ютубера или личность? Вот как это сделать:
 
-Microsoft Edge support has been ended, and the extension has been delisted. This is because Edge is consistently the slowest at reviewing extensions, constantly rejects my submissions with vague reasons why, and are all-round terrible. Download the Chrome version instead.
+1. **Создайте форк этого репозитория** или клонируйте его на свой локальный компьютер.
+2. **Замените изображения**:
 
-[![Button Download Chrome]][Download Chrome]
+- Замените изображения в папке `images/` своими собственными (пронумерованными последовательно: `1.png`, `2.png`, `3.png` и т. д. Не оставляйте пробелов в нумерации). Вы можете использовать такие сайты, как [Photoroom](https://www.photoroom.com/tools/background-remover), чтобы удалить фон ваших изображений, и такие сайты, как [compresspng](https://compresspng.com/), чтобы сжать ваши изображения.
 
-<!----------------------------------------------------------------------------->
+- Обновите `icon.png`, добавив свою иконку.
+3. **Обновите манифест**:
 
-[Button Download Firefox]: https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox
+- Отредактируйте `manifest.json` и `manifest v3.json`, изменив название расширения, номер версии и описание.
+4. **Обработка текстовых изображений** (необязательно):
 
-[Button Download Chrome]: https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logoColor=white&logo=GoogleChrome
+- Если какие-либо изображения содержат текст, который не должен быть перевернут, добавьте его в `images/flip_blacklist.json`.
 
-[Button Download Edge]: https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logoColor=white&logo=MicrosoftEdge&color=grey
+- При необходимости создайте альтернативные перевернутые версии в `images/textFlipped/`.
 
-[Download Firefox]: http://addons.mozilla.org/en-GB/firefox/addon/youtube-mrbeastify/
-[Download Chrome]: http://chrome.google.com/webstore/detail/youtube-mrbeastify/dbmaeobgdodeimjdjnkipbfhgeldnmeb
-[Download Edge]: #microsoftedge
+- Если вам не нужен черный список перевернутых изображений, удалите файл `flip_blacklist.json`.
 
-[UI YouTube]: http://www.youtube.com/@UnnecessaryInventions
-[UI Website]: http://www.mrbeastify.com/
+5. **Протестируйте локально**: Загрузите расширение в режиме разработчика в предпочитаемом браузере. Это важно. Не загружайте неработающие расширения!
+
+6. **Соберите расширение**: Если у вас установлен 7-Zip, запустите `build.bat` для сборки расширения. Это создаст zip-файл в корневом каталоге репозитория. (К сожалению, зависимость от 7-Zip необходима, поскольку встроенная в Windows функция сжатия архивов по какой-то причине полностью не работает). При ручной упаковке включайте только `images/`, `manifest.json`, `icon.png`, `settings.html`, `settings.js` и `mrbeastify.js`. При упаковке для Chrome используйте файл `manifest v3.json`, но переименуйте его в `manifest.json`.
+
+7. **Загрузка в магазины расширений**: Вы можете загрузить свою модифицированную версию в Chrome Web Store, Firefox Add-ons и т. д.
