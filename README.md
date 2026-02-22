@@ -10,7 +10,7 @@
 
 </div>
 
-[Скачать для FireFox](https://addons.mozilla.org/ru/firefox/addon/youtube-myslivetsify)
+[Скачать для FireFox](https://addons.mozilla.org/ru/firefox/addon/youtube-myslivetsify) МАГАЗ ЕЩЁ НЕ ПРОВЕРИЛ ДОПОЛНЕНИЕ НАЖИМАЙТЕ СКАЧАТЬ ДЛЯ CHROME
 
 [Скачать для Chrome и установить самостоятельно потому-что я не буду платить 5 долларов чтобы выложить расширение в магазин](https://github.com/Forbirdden/Myslivetsify-Youtube/releases/latest)
 
