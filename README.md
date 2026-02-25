@@ -11,6 +11,7 @@
 </div>
 
 [Скачать для FireFox](https://github.com/Forbirdden/Myslivetsify-Youtube/releases/download/v1.0.0/youtube-myslivetsify-signed.xpi)
+
 [Скачать для Chrome и установить самостоятельно потому-что я не буду платить 5 долларов чтобы выложить расширение в магазин](https://github.com/Forbirdden/Myslivetsify-Youtube/releases/latest)
 
 # [!!!!! ВНИМАНИЕ ЕСЛИ Я НАРУШИЛ КАКИЕ-ТО АВТОРСКИЕ ПРАВА НА КАРТИНКИ В ПАПКЕ IMAGES ПИШИТЕ РАЗБЕРЁМСЯ !!!!!](https://forbirdden.rf.gd/contacts.html)
