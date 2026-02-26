@@ -12,7 +12,7 @@ set ZIP_NAME_FIREFOX=Firefox.zip
 set ZIP_NAME_CHROMIUM=Chromium.zip
 set SOURCE_FOLDER=%CD%
 set TEMP_FOLDER=%SOURCE_FOLDER%\temp
-set SEVEN_ZIP_PATH="C:\Program Files\WindowsApps\40174MouriNaruto.NanaZip_6.0.1632.0_x64__gnj4mf6z9tkrc\NanaZip.Universal.Console.exe"
+set SEVEN_ZIP_PATH="C:\Program Files\7-Zip\7z.exe"
 
 :: Check if 7-Zip is installed
 if not exist %SEVEN_ZIP_PATH% (
