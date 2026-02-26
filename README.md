@@ -14,6 +14,8 @@
 
 <a href="https://github.com/Forbirdden/Myslivetsify-Youtube/releases/latest/download/Chromium.zip"><img alt="Скачать для Chrome" src="https://img.shields.io/github/downloads/Forbirdden/Myslivetsify-Youtube/latest/Chromium.zip?displayAssetName=false&style=for-the-badge&logo=googlechrome&logoColor=%23f2f2f2&label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Chrome&labelColor=%23DB4437&color=%23f2f2f2"></a>
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Forbirdden/Myslivetsify-Youtube&type=date&legend=bottom-right)](https://www.star-history.com/#Forbirdden/Myslivetsify-Youtube&type=date&legend=bottom-right)
+
 # [!!!!! ВНИМАНИЕ ЕСЛИ Я НАРУШИЛ КАКИЕ-ТО АВТОРСКИЕ ПРАВА НА КАРТИНКИ В ПАПКЕ IMAGES ПИШИТЕ РАЗБЕРЁМСЯ !!!!!](https://forbirdden.rf.gd/contacts.html)
 
 ## Примечания
