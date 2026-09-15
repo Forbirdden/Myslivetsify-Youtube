@@ -16,6 +16,21 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Forbirdden/Myslivetsify-Youtube&type=date&legend=bottom-right)](https://www.star-history.com/#Forbirdden/Myslivetsify-Youtube&type=date&legend=bottom-right)
 
+### крутые
+[MissPela](https://openvk.org/misspela)
+
+[Foxanne](https://openvk.org/foxanne)
+
+[YaeKitsu](https://openvk.org/id42499)
+
+[Терентий Шутеров](https://openvk.org/pivo2008)
+
+[OpenVK Flux](https://t.me/openvk_flux)
+
+[thertf](https://openvk.org/thertf)
+
+[Chelkastiy](https://openvk.org/xoeraga_lazarus)
+
 # [!!!!! ВНИМАНИЕ ЕСЛИ Я НАРУШИЛ КАКИЕ-ТО АВТОРСКИЕ ПРАВА НА КАРТИНКИ В ПАПКЕ IMAGES ПИШИТЕ РАЗБЕРЁМСЯ !!!!!](https://forbirdden.rf.gd/contacts.html)
 
 ## Примечания
